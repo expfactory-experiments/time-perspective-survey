@@ -1,0 +1,18 @@
+{
+    "name": "ZTPI: Zimbardo Time Perspective Inventory",
+    "template":"survey",
+    "exp_id": "time-perspective-survey",
+    "cognitive_atlas_task_id": "trm_56a91e92eab46",
+    "contributors": [
+             "Zeynep Enkavi",
+             "Ian Eisenberg",
+             "Patrick Bissett",
+             "Vanessa Sochat",
+             "Russell Poldrack"
+            ], 
+    "time":1,
+    "reference": ["http://psycnet.apa.org/journals/psp/77/6/1271.pdf",
+                  "Scoring: http://www.alexpaterson.co.za/downloads/ztpi-nl-info.doc"],
+    "description": "Experiment Factory survey",
+    "instructions": "Please answer the following questions to the best of your ability"
+}
