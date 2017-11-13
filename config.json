@@ -2,6 +2,7 @@
     "name": "ZTPI: Zimbardo Time Perspective Inventory",
     "template":"survey",
     "exp_id": "time-perspective-survey",
+    "url": "https://github.com/expfactory-experiments/time-perspective-survey",
     "cognitive_atlas_task_id": "trm_56a91e92eab46",
     "contributors": [
              "Zeynep Enkavi",
